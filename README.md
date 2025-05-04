@@ -91,7 +91,7 @@ Assets used in the project can be found [here](https://github.com/user-attachmen
 
 ## 📬 Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.sanatidev/reels/) 
-![Static Badge](https://img.shields.io/badge/Youtube-%23FF0033?style=flat&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCZhtUWTtk3bGJiMPN9T4HWA)
+[![Static Badge](https://img.shields.io/badge/Youtube-%23FF0033?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA)
 
 ---
 
