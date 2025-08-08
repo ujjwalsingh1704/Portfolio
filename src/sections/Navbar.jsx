@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { motion } from "motion/react";
+
 function Navigation() {
   return (
     <ul className="nav-ul">
@@ -14,8 +15,14 @@ function Navigation() {
         </a>
       </li>
       <li className="nav-li">
-        <a className="nav-link" href="#work">
-          Work
+        <a className="nav-link" href="#projects">
+          Projects
+        </a>
+      </li>
+     
+      <li className="nav-li">
+        <a className="nav-link" href="#hackathons">
+          Hackathons
         </a>
       </li>
       <li className="nav-li">
@@ -26,6 +33,7 @@ function Navigation() {
     </ul>
   );
 }
+
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
@@ -33,10 +41,10 @@ const Navbar = () => {
       <div className="mx-auto c-space max-w-7xl">
         <div className="flex items-center justify-between py-2 sm:py-0">
           <a
-            href="/"
+            href="#home"
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
           >
-            Ali
+            Ujjwal
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}

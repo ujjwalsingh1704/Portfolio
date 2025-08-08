@@ -1,83 +1,39 @@
 export const myProjects = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "ScholarBEE",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "A Micro-scholarship is a small financial award typically given to students for specific achievements, milestones, or behaviors, rather than a large, lump-sum traditional scholarship. These can help students gradually earn money for college or other educational needs. ScholarBEE is a comprehensive Micro-scholarship management system that bridges the gap between students seeking financial aid and organizations offering scholarships.",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      " Built with ❤️ for the hackathon community",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/scholarbee.png",
     tags: [
-      {
-        id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
-      },
-      {
-        id: 2,
-        name: ".Net",
-        path: "/assets/logos/dotnet.svg",
-      },
-      {
-        id: 3,
-        name: "Ef Core",
-        path: "/assets/logos/efcore.png",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
+      
     ],
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "Real-Time Tracker",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "Let's find ur way Real-time tracker is a system or tool that monitors and displays the live status, location, or performance of objects, people, or processes as events happen — with minimal delay. It's widely used across industries for enhanced visibility, control, and decision-making.",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
+      "",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "/assets/projects/real-time.png",
     tags: [
-      {
-        id: 1,
-        name: "Auth0",
-        path: "/assets/logos/auth0.svg",
-      },
-      {
-        id: 2,
-        name: "React",
-        path: "/assets/logos/react.svg",
-      },
-      {
-        id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
+     
     ],
   },
   {
     id: 3,
-    title: "Blazor Web App",
+    title: "Tissue Server",
     description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+      "",
     subDescription: [
       "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
       "Implemented API interactions using .NET Core for a robust backend.",
@@ -88,139 +44,46 @@ export const myProjects = [
     logo: "",
     image: "/assets/projects/blazor-app.jpg",
     tags: [
-      {
-        id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
-      },
-      {
-        id: 2,
-        name: ".NET Core",
-        path: "/assets/logos/dotnetcore.svg",
-      },
-      {
-        id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
+     
     ],
   },
   {
     id: 4,
-    title: "C++ Game Engine",
+    title: "Medic",
     description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
-    subDescription: [
-      "Built a powerful rendering engine using OpenGL and C++.",
-      "Developed a physics engine with collision detection and particle effects.",
-      "Implemented a scripting system for easy game customization.",
-      "Optimized performance with multi-threading and efficient memory management.",
+      "A Fall Detection and Emergency Alert System  automatically detect sudden falls ,Upon detection of emergency button  it instantly notifies registered contacts with the user's real-time location",
+    subDescription: [ 
+      "Test ultra-low latency video consultations",
+       "Deploy *AI triage* via edge computing",
+      "Simulate *mass HealthBand & Pod connectivity",
+      "Evaluate *offline-to-5G fallback* performance",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "/assets/projects/medic.png",
     tags: [
-      {
-        id: 1,
-        name: "C++",
-        path: "/assets/logos/cplusplus.svg",
-      },
-      {
-        id: 2,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
-      },
-      {
-        id: 3,
-        name: "Git",
-        path: "/assets/logos/git.svg",
-      },
-      {
-        id: 4,
-        name: "Microsoft",
-        path: "/assets/logos/microsoft.svg",
-      },
+     
     ],
   },
   {
     id: 5,
-    title: "WordPress Custom Theme",
+    title: "Ece-dashboard",
     description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+      "A fully Functional IIT-bhubaneswar hackathon project.",
     subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
+      "Developed a responsive website using HTML5, CSS3, and JavaScript.",
       "Integrated Tailwind CSS for modern styling and UI enhancements.",
       "Optimized SEO and page speed using Vite.js for fast builds.",
       "Implemented custom widgets and plugin compatibility for extended functionality.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/assets/projects/ece-dashboard.png",
     tags: [
-      {
-        id: 1,
-        name: "WordPress",
-        path: "/assets/logos/wordpress.svg",
-      },
-      {
-        id: 2,
-        name: "HTML5",
-        path: "/assets/logos/html5.svg",
-      },
-      {
-        id: 3,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
-      },
-      {
-        id: 4,
-        name: "Vite.js",
-        path: "/assets/logos/vitejs.svg",
-      },
+     
     ],
   },
-  {
-    id: 6,
-    title: "Online Learning Platform",
-    description:
-      "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
-    subDescription: [
-      "Built using Blazor WebAssembly for a seamless SPA experience.",
-      "Implemented video streaming with Azure Media Services.",
-      "Added a quiz system with dynamic question generation and real-time grading.",
-      "Integrated Stripe API for secure payment processing.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/elearning.jpg",
-    tags: [
-      {
-        id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
-      },
-      {
-        id: 2,
-        name: "Azure",
-        path: "/assets/logos/azure.svg",
-      },
-      {
-        id: 3,
-        name: "Stripe",
-        path: "/assets/logos/stripe.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-    ],
-  },
+ 
 ];
 
 export const mySocials = [
@@ -243,25 +106,33 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "UI/UX Designer",
+    
+    date: "2023-2024",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Collaborate with  designers and developers to translate user needs into functional and visually appealing interfaces",
+
+      "Design user interfaces (UI) that align with modern design standards and branding guidelines",
+      
+      "Apply user experience (UX) principles to optimize navigation, usability, and accessibility",
+      
+      "Convert design mockups or wireframes into responsive and interactive web/mobile interfaces using HTML, CSS, JavaScript, and modern front-end frameworks",
+      
+      "Conduct user research, usability testing, and A/B testing to refine designs based on feedback",
+      
+     
+      
+      "Stay updated on the latest UI/UX trends, techniques, and technologies.",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Front-end and Back-end Developer",
+    
+    date: "2024-2025",
     contents: [
       "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
       "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
+      "✅ Implemented secure APIs",
       "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
       "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
     ],
@@ -326,3 +197,46 @@ export const reviews = [
     img: "https://robohash.org/eve",
   },
 ];
+
+
+export const Hacks = [
+  {
+
+    id:1,
+    title: " Web and Design Society - IIT Bhubaneswar"
+} , 
+
+{
+  id:2,
+  title: "Scaler School of Technology in collaboration with HackwithIndia"
+} ,
+
+{
+  id:3,
+  title: "Code-Bharat 2.0"
+},
+
+{
+  id:4,
+  title: "Code Sprint 1.0 hosted by Google Developer club "
+},
+
+{
+  id:5,
+  title: "Tinker Tutor Ideathon"
+},
+
+{
+  id:6,
+  title: "NER hackathon - Assam Government"
+},
+
+{
+  id:7,
+  title: "UI/UX designeothon - Tutedude"
+},
+
+
+  
+
+]
