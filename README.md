@@ -2,8 +2,6 @@
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to showcase my skills and projects creatively.
 
-![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
-
 ---
 
 ## 📚 Table of Contents
@@ -12,9 +10,8 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [Assets](#-assets)
 - [Contact Me](#-contact-me)
-- [Suggestions or Feedback](#-suggestions-or-feedback)
+- [About This Portfolio](#-about-this-portfolio)
 
 ---
 
@@ -87,12 +84,6 @@ npm run dev
 ```
 
 The app will be available at http://localhost:5173.
-
----
-
-## 🔗 Assets
-
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
 
 ---
 
